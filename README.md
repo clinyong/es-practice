@@ -1,0 +1,1 @@
+Learn ECMAScript by practice.
